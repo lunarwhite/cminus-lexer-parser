@@ -1,2 +1,2 @@
-# cminus-lexer-paser
-Build a simply lexer and paser for C minus (subset of C), using Java.
+# cminus-lexer-parser
+Build a simply lexer and parser for C minus (subset of C), using Java.
