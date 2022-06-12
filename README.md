@@ -1,7 +1,7 @@
 # cminus-lexer-parser
 Build a simply lexer and parser for C minus (subset of C), using Java.
 
-Find more details in this [blog post](https://www.notion.so/lunarwhite/Tiny-Lexer-and-Parser-for-CMinus-f5033869faa9425eab94cf8cf2539a92#f1118c661cd44277802b84850e4bb13b).
+Find more details in this [blog post](https://lunarwhite.notion.site/Tiny-Lexer-and-Parser-for-CMinus-f5033869faa9425eab94cf8cf2539a92#f1118c661cd44277802b84850e4bb13b).
 
 ## Structure
 
